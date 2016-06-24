@@ -150,7 +150,7 @@ img
 
 }
 
-.service-element-h1 > a :hover
+.service-element-link h1:hover
 {
 	background: #1E2A32;
 	text-decoration: underline;
