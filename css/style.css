@@ -23,7 +23,7 @@ img
 {
 	display : flex;
 	flex-wrap: wrap;
-	padding : 15px;
+	padding: 5px;
 	width: 100%;
 }
 
@@ -141,12 +141,15 @@ img
 
 }
 
+
 .service-element-h1
 {
 	background: red;
 	color: white;
 	text-align: center;
 	padding: 5%;
+	font-size: 1.2em;
+	font-family: 'Raleway', sans-serif;
 
 }
 
@@ -161,4 +164,153 @@ img
 	text-decoration : none;
 }
 
-	
+.advice
+{
+	/* we have to put so because the css file is in a differente foldeer*/
+	 background: url('../images/tec_background.jpg') no-repeat;
+	 height: 600px;
+}
+
+.advice-element h1
+{
+	font-size : 2.5em;
+	font-weight: bold;
+	color : white;
+}
+
+.advice-element p
+{
+	color : white;
+}
+
+.advice-button
+{
+	display: block;
+	margin-top : 4%;
+	width: 50%;
+	background: red;
+	padding : 4%;
+}
+
+.text-white
+{
+	color: white;
+}
+
+.service-list
+{
+	margin-top: 3%;
+}
+
+.service-list-element-h2
+{
+	font-weight: 500;
+    font-style: normal;
+    color: #1e2a32;
+    margin-bottom: 1%;
+}
+
+.service-list-element-link
+{
+	margin-top: 0.5%;
+	margin-left : 0.5%;
+	color: red;
+	font-size: 1.5em;
+	text-decoration : none;
+}
+
+.service-list-element-link:hover
+{
+	background-color : red;
+	color : white;
+}
+
+.img-people
+{
+	border-radius : 50%;
+}
+
+.little-margin-top
+{
+	margin-top: 2%;
+}
+
+.ppl-say
+{
+	background-image : url("../images/light-bg.jpg");
+	background-size: cover;
+}
+
+.ppl-sub-element
+{
+	padding: 5%;
+}
+
+.semi-footer-info
+{
+	font-size: 1.1em;
+}
+
+.info-email
+{
+	color: red;
+}
+
+.social-network-element
+{
+	width : 20%;
+}
+
+.bg-light-gray
+{
+	background: #F4F5F5;
+}
+
+.footer
+{
+	padding: 15px;
+	color: #53626D;
+	font-size: 0.7em;
+}
+
+.dark-gray
+{
+	color: #53626D;
+}
+
+.footer a:hover
+{
+	color: red;
+}
+
+/*responsive map*/
+.google-maps 
+{
+	position: relative;
+	padding-bottom: 75%; // This is the aspect ratio
+	height: 0;
+	overflow: hidden;
+}
+.google-maps iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100% !important;
+	height: 100% !important;
+}
+
+.font-raleway
+{
+	font-family: 'Raleway', sans-serif;
+}
+
+.font-roboto
+{
+	font-family: 'Roboto', sans-serif;
+}
+
+.text-our-company
+{
+	font-family: 'Roboto', sans-serif;
+	font-size:  45px;
+}

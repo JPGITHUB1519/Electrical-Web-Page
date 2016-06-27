@@ -1,0 +1,86 @@
+@media only screen and (min-width: 600px) 
+{
+    /* For tablets: */
+
+    .nav-element
+    {
+    	width : 20%;
+    }
+
+    .service-element
+    {
+    	width : 25%;
+    }
+
+  
+	
+	.advice
+    {
+    	height: auto;
+    	
+    }
+
+    .advice-element
+    {
+    	width : 50%;
+    }
+
+    .service-list-element
+    {
+    	width : 33.33%;
+    }
+
+    .ppl-element
+    {
+    	width : 50%;
+    }
+
+    .ppl-sub-element
+    {
+    	width : 50%;
+    }
+
+    .semi-footer-element
+    {
+    	width: 50%;
+    }
+
+    .semi-footer-icon
+    {
+    	width: 50%;
+    }
+
+    .semi-footer-info
+    {
+    	width : 50%;
+    }
+
+    .google-maps 
+    {
+		position: relative;
+		padding-bottom: 75%; // This is the aspect ratio
+		height: 0;
+		overflow: hidden;
+	}
+	.google-maps iframe {
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100% !important;
+		height: 100% !important;
+	}
+
+}
+
+@media only screen and (min-width: 960px) 
+{
+	/*desktop*/
+
+	.container
+	{
+		width: 960px;
+		margin-left : auto;
+		margin-right: auto;
+	}
+
+}
