@@ -12,8 +12,6 @@
     	width : 25%;
     }
 
-  
-	
 	.advice
     {
     	height: auto;
@@ -82,5 +80,39 @@
 		margin-left : auto;
 		margin-right: auto;
 	}
+
+    .logo
+    {
+        width: 50%;
+    }
+
+    .information
+    {
+        background: white;
+        display: block;
+        width: 50%;
+    }
+
+    .tel-icon
+    {
+        width : 20%;
+    }
+
+    .tel-text
+    {
+        width : 80%;
+    }
+
+    .email-icon
+    {
+        width : 20%;
+    }
+
+    .email-text
+    {
+        width : 80%;
+    }
+
+    
 
 }
