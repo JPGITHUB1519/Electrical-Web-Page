@@ -174,12 +174,13 @@ img
 .advice
 {
 	/* we have to put so because the css file is in a differente foldeer*/
-	 background: url('../images/tec_background.jpg') no-repeat;
-	
-	 padding-bottom: 10%;
-	 padding-top: 10%;
-	 padding-left: 8%;
-	 padding-right: 8%;
+	background: url('../images/information.jpg') no-repeat;
+	background-attachment : fixed;
+	padding-bottom: 10%;
+	padding-top: 10%;
+	padding-left: 8%;
+	padding-right: 8%;
+
 }
 
 .advice-element h1
@@ -397,12 +398,6 @@ img
     letter-spacing: 0px;
 }
 
-.validator-medall
-{
-	width: 100%;
-	margin-left: auto;
-	margin-right: auto;
-}
 
 .text-footer
 {
