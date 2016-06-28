@@ -103,6 +103,43 @@
         width: 100%;
     }
 
+    /*services*/
+
+    .service-content-element
+    {
+        width: 50%;
+
+    }
+    
+    .service-content-image
+    {
+        width: 20%;
+    }
+
+    .service-content-block
+    {
+        width : 60%;
+    }
+
+    .service-detailed-element
+    {
+        width: 33.33%;
+        padding: 3%;
+    }
+
+
+    .freephone-element
+    {
+        width: 50%;
+    }
+
+   .free-phone .advice-button
+   {
+        margin-top: 0;
+        padding: 2%;
+   }
+
+
 
 
 }
@@ -155,6 +192,18 @@
     .our-company-info
     {
         width: 50%;
+    }
+
+    .service-content-element
+    {
+        width: 25%;
+
+    }
+
+    .service-detailed-element
+    {
+        width: 33.33%;
+        padding: 3%;
     }
     
 
