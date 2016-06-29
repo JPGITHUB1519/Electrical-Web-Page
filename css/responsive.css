@@ -139,6 +139,26 @@
         padding: 2%;
    }
 
+   .addresses
+   {
+        width : 40%;
+   }
+
+   .formulario
+   {
+        width : 60%;
+   }
+
+   .input-contact-form
+   {
+        width: 90%;
+   }
+
+   .textarea-contact-form
+    {
+        width: 90%;
+    }
+
 
 
 
