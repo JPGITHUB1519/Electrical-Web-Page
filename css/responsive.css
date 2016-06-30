@@ -159,6 +159,16 @@
         width: 90%;
     }
 
+    .news-columns
+    {
+        width: 50%;
+    }
+
+    .pc-hidden
+    {
+        display: none;
+    }
+
 
 
 
@@ -224,6 +234,16 @@
     {
         width: 33.33%;
         padding: 3%;
+    }
+
+    .news-columns
+    {
+        width: 33.33%;
+    }
+
+    .pc-hidden
+    {
+        display: block;
     }
     
 
