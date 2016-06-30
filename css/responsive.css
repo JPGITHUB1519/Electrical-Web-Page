@@ -169,6 +169,11 @@
         display: none;
     }
 
+    .recent-videos-column
+    {
+        width: 33.33%;
+    }
+
 
 
 
