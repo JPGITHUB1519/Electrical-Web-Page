@@ -173,6 +173,16 @@
     {
         width: 33.33%;
     }
+    
+    .archives
+    {
+        width : 65%;
+    }
+
+    .terms_use
+    {
+        width : 35%;
+    }
 
 
 
@@ -249,6 +259,16 @@
     .pc-hidden
     {
         display: block;
+    }
+
+    .archives
+    {
+        width : 68%;
+    }
+
+    .terms_use
+    {
+        width : 32%;
     }
     
 
